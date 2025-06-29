@@ -1,0 +1,5 @@
+matplotlib
+numpy
+jax[cpu]
+scikit-learn
+optax
